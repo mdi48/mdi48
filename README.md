@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 Apologies for the mess. I need to declutter this profile at some point and commit stuff to it more. It's a bad habit of mine.
 
-Currently trying to get more into more functional related stuff. JavaScript has kinda made me hate (maybe a bit of a strong word)
-web dev. 
+Currently trying to get back into the habit of doing more frequent programming work, as I've been kind of out of it this year due to life circumstances.
+
+More will be added at some point.
 
 ## Some Other Interests of mine
 - 🎬 Film (probably my biggest hobby)
