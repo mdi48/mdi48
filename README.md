@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,7 +16,15 @@ Apologies for the mess. I need to declutter this profile at some point and commi
 
 Currently trying to get back into the habit of doing more frequent programming work, as I've been kind of out of it this year due to life circumstances.
 
-More will be added at some point.
+- 🔭 I’m currently working on:
+  - A movie rating predictor (basic data stuff with some machine learning for extra oomph)
+  - An improved GitHub starred repositories web app (with pagination included!)
+
+- 🌱 I’m currently learning:
+  - More data science, statistics, and machine learning stuff
+  - More devops stuff (Kubernetes, Prometheus, Grafana)
+  - More functional programming-related stuff (trying out Elixir a bit more)
+  - Rust (soon)
 
 ## Some Other Interests of mine
 - 🎬 Film (probably my biggest hobby)
