@@ -16,7 +16,7 @@ Apologies for the mess. I need to declutter this profile at some point and commi
 
 Currently trying to get back into the habit of doing more frequent programming work, as I've been kind of out of it this year due to life circumstances.
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on (unpublished or not in a "good enough" state yet):
   - A movie rating predictor (basic data stuff with some machine learning for extra oomph)
   - An improved GitHub starred repositories web app (with pagination included!)
 
