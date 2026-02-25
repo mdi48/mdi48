@@ -34,4 +34,4 @@ Currently trying to get back into the habit of doing more frequent programming w
 - 🤔 Philosophy (I was a philosophy minor)
 - 🎮 Video Games (not really been playing much lately though)
 
-Activity is public repos only. I make a lot more commits in private repos used for learning, dotfiles, etc. (I haven't missed a day in 2026 so far as of Feb 15)
+Activity is public repos only. I make a lot more commits in private repos used for learning, dotfiles, etc. (I haven't missed a day in 2026 so far as of Feb 25)
