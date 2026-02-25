@@ -17,8 +17,10 @@ Apologies for the mess. I need to declutter this profile at some point and commi
 Currently trying to get back into the habit of doing more frequent programming work, as I've been kind of out of it this year due to life circumstances.
 
 - 🔭 I’m currently working on (unpublished or not in a "good enough" state yet):
+  - **NOTE: I am currently putting heavy focus into learning Elixir, so not a lot of work on the projects side has been happening in the past couple weeks or so.**
   - A movie rating predictor (basic data stuff with some machine learning for extra oomph)
   - An improved GitHub starred repositories web app (with pagination included!)
+  - A new version of my personal portfolio that uses Astro.
 
 - 🌱 I’m currently learning:
   - More data science, statistics, and machine learning stuff
