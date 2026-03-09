@@ -24,7 +24,7 @@ Currently trying to get back into the habit of doing more frequent programming w
 - 🌱 I’m currently learning:
   - More data science, statistics, and machine learning stuff
   - More devops stuff (Kubernetes, Prometheus, Grafana)
-  - Phoenix
+  - Phoenix (Main focus at the moment before moving onto the GitHub repos project)
   - Rust (soon)
 
 ## Some Other Interests of mine
@@ -33,4 +33,4 @@ Currently trying to get back into the habit of doing more frequent programming w
 - 🤔 Philosophy (I was a philosophy minor)
 - 🎮 Video Games (not really been playing much lately though)
 
-Activity is public repos only. I make a lot more commits in private repos used for learning, dotfiles, etc. (I haven't missed a day in 2026 so far as of Feb 25)
+Activity is public repos only. I make a lot more commits in private repos used for learning, dotfiles, etc. (I haven't missed a day in 2026 so far as of March 9)
