@@ -17,7 +17,7 @@ Apologies for the mess. I need to declutter this profile at some point and commi
 Currently trying to get back into the habit of doing more frequent programming work, as I've been kind of out of it this year due to life circumstances (I did pretty good for the first few months at least).
 
 - 🔭 I’m currently working on (unpublished or not in a "good enough" state yet):
-  - A new version of my personal portfolio that uses Astro.
+  - A new version of my personal portfolio that uses either Astro or Hugo.
   - A TUI project using Rust and ratatui (in future. I am still learning.)
 
 - 🌱 I’m currently learning:
